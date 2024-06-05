@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hello, we are 3DBox Team, taking cloud computing at Kyung Hee University
+
+
+## 🤝 Let's make together
+- [Frontend](https://github.com/CloudComputing-Project/3DBox-frontend)
+- [Backend](https://github.com/CloudComputing-Project/3DBox-backend)
+- [AI](https://github.com/CloudComputing-Project/3DBox-ai)
+
+## :speech_balloon: Contributors
+
+
 
 <!--
 
