@@ -17,7 +17,7 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
       <td align="center"><a href="https://github.com/splguyjr"><img src="https://avatars.githubusercontent.com/u/33226033?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Unkyung Kim</b></sub></a></td>
       <td align="center"><a href="https://github.com/Sunha-i"><img src="https://avatars.githubusercontent.com/u/74592552?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Sunha Park</b></sub></a></td>
       <td align="center"><a href="https://github.com/janett105"><img src="https://avatars.githubusercontent.com/u/81574359?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Jihoo Park</b></sub></a></td>
-      <td align="center"><a href="https://github.com/okodeee"><img src="https://avatars.githubusercontent.com/u/120557382?s=64&v=4" width="100px;" alt=""/><br />Yunji Jeong<sub><b></b></sub></a></td>    
+      <td align="center"><a href="https://github.com/okodeee"><img src="https://avatars.githubusercontent.com/u/120557382?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Yunji Jeong<sub><b></b></sub></a></td>    
     </tr>
   </tobdy>
 </table>
