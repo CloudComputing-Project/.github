@@ -1,4 +1,6 @@
-## 👋 Hello, we are 3DBox Team, taking cloud computing at Kyung Hee University
+## 👋 Hello, everyone
+we are Group D, taking a cloud computing class at Kyung Hee University.
+We are developing **🗃️3DBox**, a web-based file storage service using cloud computing.
 
 
 ## 🤝 Let's make together
