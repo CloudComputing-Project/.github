@@ -4,10 +4,10 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 
 ## 📌 Features
 - Kakao login  
-- Drag and drop file upload  
+- Upload file using Drag and drop   
 - File download & duplicate  
 - Delete file/folder  
-- Move file/folder to another folder using drag and drop
+- Move file/folder using drag and drop
 - Creat GAN personal image  
 
 ## 🔨 Project Architecture
