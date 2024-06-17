@@ -8,7 +8,14 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 - File download & duplicate  
 - Delete file/folder  
 - Move file/folder using drag and drop
-- Creat GAN personal image  
+- Creat GAN personal image
+
+## ⚙️ Tech Stack
+- **Frontend** : React
+- **Backend** : Spring boot, FastAPI
+- **Database** : RDS(MySQL)
+- **Server** : AWS Services(EC2, Lambda), Google Cloud Project
+- **IDE** : IntelliJ, VSCode
 
 ## 🔨 Project Architecture
 ![image](https://github.com/CloudComputing-Project/.github/assets/103225693/f95cb0bb-a357-4d0d-8942-529c4a9cb1ce)  
