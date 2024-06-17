@@ -14,7 +14,8 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 - **Frontend** : React
 - **Backend** : Spring boot, FastAPI
 - **Database** : RDS(MySQL)
-- **Server** : AWS Services(EC2, Lambda), Google Cloud Project
+- **Server** : AWS Services(EC2, Lambda), Google Cloud Project(VM instances)
+- **Storage** : AWS Services(S3)
 - **IDE** : IntelliJ, VSCode
 
 ## 🔨 Project Architecture
