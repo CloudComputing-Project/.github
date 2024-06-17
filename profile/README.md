@@ -1,7 +1,27 @@
 ## 👋 Hello, everyone
 we are Group D, taking a cloud computing class at Kyung Hee University.
-We are developing **🗃️3DBox**, a web-based file storage service using cloud computing.
+We are developing **🗃️3DBox**, a web-based file storage service using cloud computing.  
 
+## 📌 Features
+- Kakao login  
+- Drag and drop file upload  
+- File download & duplicate  
+- Delete file/folder  
+- Move file/folder to another folder using drag and drop
+- Creat GAN personal image  
+
+## 🔨 Project Architecture
+![image](https://github.com/CloudComputing-Project/.github/assets/103225693/f95cb0bb-a357-4d0d-8942-529c4a9cb1ce)  
+
+## 📝 ERD
+![image](https://github.com/CloudComputing-Project/.github/assets/103225693/e9eb6643-8376-4f5d-85b0-0508c7440aa1)  
+
+## 🔎 Preview  
+#### 💜 Upload
+#### 💜 Move file & folder
+#### 💜 Rename folder
+#### 💜 Delete file
+#### 💜 Draggable element
 
 ## 🤝 Let's make together
 - [Frontend](https://github.com/CloudComputing-Project/3DBox-frontend)
