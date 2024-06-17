@@ -49,7 +49,7 @@ https://github.com/CloudComputing-Project/.github/assets/103225693/079f3e4f-9c0f
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/komg00"><img src="https://avatars.githubusercontent.com/u/103225693?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Minkyung Ko</b></sub></a></td>
-      <td align="center"><a href="https://github.com/splguyjr"><img src="https://avatars.githubusercontent.com/u/33226033?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Unkyung Kim</b></sub></a></td>
+      <td align="center"><a href="https://github.com/splguyjr"><img src="https://avatars.githubusercontent.com/u/33226033?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Woonkyung Kim</b></sub></a></td>
       <td align="center"><a href="https://github.com/Sunha-i"><img src="https://avatars.githubusercontent.com/u/74592552?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Sunha Park</b></sub></a></td>
       <td align="center"><a href="https://github.com/janett105"><img src="https://avatars.githubusercontent.com/u/81574359?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Jihoo Park</b></sub></a></td>
       <td align="center"><a href="https://github.com/okodeee"><img src="https://avatars.githubusercontent.com/u/120557382?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Yunji Jeong<sub><b></b></sub></a></td>    
