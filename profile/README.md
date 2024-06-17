@@ -13,9 +13,6 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 ## 🔨 Project Architecture
 ![image](https://github.com/CloudComputing-Project/.github/assets/103225693/f95cb0bb-a357-4d0d-8942-529c4a9cb1ce)  
 
-## 📝 ERD
-![image](https://github.com/CloudComputing-Project/.github/assets/103225693/e9eb6643-8376-4f5d-85b0-0508c7440aa1)  
-
 ## 🔎 Preview  
 #### 💜 Upload
 https://github.com/CloudComputing-Project/.github/assets/103225693/5c0fae0d-7299-4ff4-a957-26d66fe7749a
