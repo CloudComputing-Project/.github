@@ -18,10 +18,20 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 
 ## 🔎 Preview  
 #### 💜 Upload
+https://github.com/CloudComputing-Project/.github/assets/103225693/5c0fae0d-7299-4ff4-a957-26d66fe7749a
+
 #### 💜 Move file & folder
+https://github.com/CloudComputing-Project/.github/assets/103225693/68391adf-df2f-4cd3-8a01-3e3786a2c12e
+
 #### 💜 Rename folder
+https://github.com/CloudComputing-Project/.github/assets/103225693/c4d35ba5-96d5-4ae8-9ca1-c3560fda82fb
+
 #### 💜 Delete file
+https://github.com/CloudComputing-Project/.github/assets/103225693/9c833eaa-35ab-4612-b5ba-a54adde525d4
+
 #### 💜 Draggable element
+https://github.com/CloudComputing-Project/.github/assets/103225693/079f3e4f-9c0f-4363-8a4f-e69eb8a13743
+
 
 ## 🤝 Let's make together
 - [Frontend](https://github.com/CloudComputing-Project/3DBox-frontend)
