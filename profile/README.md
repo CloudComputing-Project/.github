@@ -20,7 +20,8 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 - **IDE** : IntelliJ, VSCode
 
 ## 🔨 Project Architecture
-![image](https://github.com/CloudComputing-Project/.github/assets/103225693/f95cb0bb-a357-4d0d-8942-529c4a9cb1ce)  
+![image37](https://github.com/CloudComputing-Project/.github/assets/103225693/3ec32af6-ca0d-4497-96a2-7117853b7770)
+
 
 ## 🔎 Preview  
 #### 💜 Upload
