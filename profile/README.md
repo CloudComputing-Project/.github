@@ -4,11 +4,12 @@ We are developing **🗃️3DBox**, a web-based file storage service using cloud
 
 ## 📌 Features
 - Kakao login  
-- Upload file using Drag and drop   
-- File download & duplicate  
+- Upload file using Drag and Drop   
+- File download & copy
+- Move file/folder using Drag and Drop
 - Delete file/folder  
-- Move file/folder using drag and drop
-- Creat GAN personal image
+- Folder create & rename
+- Create personal image using GAN
 
 ## ⚙️ Tech Stack
 - **Frontend** : React
@@ -34,9 +35,11 @@ https://github.com/CloudComputing-Project/.github/assets/103225693/c4d35ba5-96d5
 #### 💜 Delete file
 https://github.com/CloudComputing-Project/.github/assets/103225693/9c833eaa-35ab-4612-b5ba-a54adde525d4
 
-#### 💜 Draggable element
-https://github.com/CloudComputing-Project/.github/assets/103225693/079f3e4f-9c0f-4363-8a4f-e69eb8a13743
+#### 💜 Create personal image using GAN
+https://github.com/CloudComputing-Project/.github/assets/103225693/91930632-e12b-4ccc-a879-1e9cdce2f8d5
 
+#### 💜 Draggable element
+https://github.com/CloudComputing-Project/.github/assets/103225693/674e34b6-c6a2-4288-a034-511e29fada11
 
 ## 🤝 Let's make together
 - [Frontend](https://github.com/CloudComputing-Project/3DBox-frontend)
